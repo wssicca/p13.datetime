@@ -1,7 +1,7 @@
 {
     "name": "p13/datetime",
     "type": "library",
-    "version": "3.0",
+    "version": "1.0",
     "description": "O P13/DateTime é um pacote de classes para manipulação de data/hora",
     "keywords": ["p13", "php5", "date", "datetime", "time"],
     "license": "LGPL-3.0",
